@@ -1,5 +1,0 @@
-﻿  Source.cpp
-F:\OpenGL\Baithuchanh\ConsoleApplication1\Test\Source.cpp(130,8): error C2086: 'GLint success': redefinition
-F:\OpenGL\Baithuchanh\ConsoleApplication1\Test\Source.cpp(89): message : see declaration of 'success'
-F:\OpenGL\Baithuchanh\ConsoleApplication1\Test\Source.cpp(131,9): error C2086: 'GLchar infoLog[512]': redefinition
-F:\OpenGL\Baithuchanh\ConsoleApplication1\Test\Source.cpp(90): message : see declaration of 'infoLog'

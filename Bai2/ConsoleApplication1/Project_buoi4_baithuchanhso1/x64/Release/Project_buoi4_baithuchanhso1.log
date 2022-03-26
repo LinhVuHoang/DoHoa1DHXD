@@ -1,3 +1,0 @@
-﻿  Project_buoi4_baithuchanhso1.cpp
-MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol main
-F:\OpenGL\Baithuchanh\ConsoleApplication1\x64\Release\Project_buoi4_baithuchanhso1.exe : fatal error LNK1120: 1 unresolved externals
