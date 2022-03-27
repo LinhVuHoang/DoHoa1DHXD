@@ -55,7 +55,7 @@ int main(void)
 		std::cout << "Failed to initialize GLEW" << std::endl;
 		return -1;
 	}
-
+	glEnable(GL_DEPTH_TEST);
 	// Định nghĩa kích thước viewport
 	 // Define the viewport dimensions
 	int widthW, heightW;

@@ -1,8 +1,8 @@
 ﻿  Cube.cpp
-F:\OpenGL\Baithuchanh\ConsoleApplication1\Project1\Shader.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-F:\OpenGL\Baithuchanh\ConsoleApplication1\Project1\Shader.h(43,34): warning C4101: 'e': unreferenced local variable
+F:\cuaoe\OneDrive\Máy tính\DoHoa1DHXD\onlyfans+cube\OpenGL\Baithuchanh\ConsoleApplication1\Project1\Shader.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\cuaoe\OneDrive\Máy tính\DoHoa1DHXD\onlyfans+cube\OpenGL\Baithuchanh\ConsoleApplication1\Project1\Shader.h(43,34): warning C4101: 'e': unreferenced local variable
   Generating code
   Previous IPDB not found, fall back to full compilation.
   All 250 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  Project1.vcxproj -> F:\OpenGL\Baithuchanh\ConsoleApplication1\x64\Release\Project1.exe
+  Project1.vcxproj -> F:\cuaoe\OneDrive\Máy tính\DoHoa1DHXD\onlyfans+cube\OpenGL\Baithuchanh\ConsoleApplication1\x64\Release\Project1.exe
